@@ -1,22 +1,22 @@
-.blue{
+#blue{
    color: blue; 
 }
 
-.red{
+#red{
     color: red;
 }
 
-.orange{
+#orange{
     color: orange
 }
-.green{
+#green{
     color: green;
 }
-.yellow{
+#yellow{
     color: yellow;
 }
 
-#color-title{
+.color-title{
     font-weight: normal;
 }
 
